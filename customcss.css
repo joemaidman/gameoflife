@@ -1,0 +1,139 @@
+html {
+
+    text-align: center;
+    width: 100%;
+    background-color: #D6BCAB;
+}
+body {
+    text-align: center;
+    width: 100%;
+    background-color: #D6BCAB;
+}
+
+#tempText{
+
+    font-style:italic;
+     height: 0px;
+    visibility: collapse;
+}
+#synDiv,
+#simDiv,
+#relDiv,
+#antDiv{
+    height: 0px;
+    visibility: collapse;
+}
+#spinnerDiv{
+    height: 0px;
+    visibility: collapse;
+    position: relative;
+}
+a {
+    color: white;
+    padding-left: 10px;
+}
+a:hover {
+    color: #222222;
+    cursor: hand;
+}
+.table {
+    background: #808080;
+    
+
+}
+
+h1{
+font-size: 49px;
+font-weight: bold;
+    color: #F44336;
+}
+
+h3{
+
+    font-weight: bold;
+}
+
+h3{
+    color: #F44336;
+}
+
+h5{
+font-size: 22px;
+    color: #F44336;
+    font-weight: bold;
+}
+
+h10{
+font-size: 22px;
+    color: #F44336;
+}
+
+td {
+    font-size: 15px;
+    background-color: #24384E;
+}
+th {
+    font-size: 15px;
+}
+hr {
+    visibility: hidden;
+}
+.container-fluid {
+    width: 35%;
+    text-align: center;
+}
+@media (max-width:1700px) {
+    .container-fluid {
+        width: 100%;
+    }
+
+
+    
+}
+
+
+
+.row {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+.btn-default {
+    background: #222222;
+
+
+}
+.form-control {
+    background-color: gray;
+    color: white;
+}
+.btn-default {
+    font-size: 22px;
+   
+    
+}
+
+.input-group{
+
+
+}
+.dropdown-menu {} .dropdown-menu,
+ li,
+ a {
+     width: 150px;
+     font-size: 22px !important;
+ }
+
+ .checkbox label{
+        color: #F44336;
+font-size: 22px;
+display: inline;
+
+
+ }
+ .fa{
+
+color: #F44336;
+
+ }
+ 
